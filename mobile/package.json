@@ -9,6 +9,8 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "author": "Lucas Assis Mendes",
+  "license": "MIT",
   "dependencies": {
     "react": "16.11.0",
     "react-native": "0.62.2",
