@@ -22,11 +22,12 @@
 <!-- TABLE OF CONTENTS -->
 
 ## 🗂 Conteúdo
-- [📋 Sobre o Projeto](#sobre-o-projeto)
-  - [🚀 Feito Com](#feito-com)
-  - [📷 Preview](#preview)
-- [⚖️ Licença](#licen%C3%A7a)
-- [📫 Contato](#contato)
+- [📋 Sobre o Projeto](#-sobre-o-projeto)
+  - [🚀 Feito Com](#-feito-com)
+  - [📷 Preview](#-preview)
+- [📦 Instalação](#-instalação)
+- [⚖️ Licença](#-%EF%B8%8F-licença)
+- [📫 Contato](#-contato)
 
 <!-- ABOUT THE PROJECT --> 
 
