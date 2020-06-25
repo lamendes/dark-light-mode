@@ -44,7 +44,7 @@ Projeto feito para entender o funcionamento do [ThemeProvider](https://styled-co
 -   [VS Code][vc]
 -   [Yarn][yarn]
 
-### 📷 Preview
+## 📷 Preview
 
 ##### 📱 Mobile
 
