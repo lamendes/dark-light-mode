@@ -82,6 +82,9 @@ $ yarn ou npm install
 
 #Rodando o App no iOS
 $ yarn ios ou react-native run-ios
+
+#Rodando o App no Android
+$ yarn android ou react-native run-android
 ```
 
 <!-- LICENSE -->
